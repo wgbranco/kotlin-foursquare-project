@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Seattle Venue Search</string>
+    <string name="title_activity_map">Venue Details</string>
+    <string name="search_text_placeholder">Search for places: "coffee", "pizza", ...</string>
+    <string name="oops">Oops!</string>
+    <string name="no_venues_found">No places found</string>
+    <string name="list_item_icon">Venue image</string>
+    <string name="star_icon">Favourite status image</string>
+    <string name="map_static_image">Static map image</string>
+
+    <string name="title_activity_map_venues">MapVenuesActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
